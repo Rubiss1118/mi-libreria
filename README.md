@@ -293,9 +293,11 @@ Aquí tienes un ejemplo de implementación en HTML y JavaScript usando la librer
 
 ## d. Capturas de pantalla
 
+
 ## e. Vídeo
 https://drive.google.com/drive/folders/1p3wIxIgMfy9FxPcnA-1qC2AcapBhUAa0?usp=sharing
 
+![Captura de pantalla 2025-07-04 140735](https://github.com/user-attachments/assets/c6980aa3-f6b3-4c9f-8552-533dbfe2a0c7)
 
 ## GITHUB PAGES
 https://rubiss1118.github.io/mi-libreria/
