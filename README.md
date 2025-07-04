@@ -1,4 +1,22 @@
-# calendarioUtils
+				TECNOLÓGICO NACIONAL DE MEXICO
+
+        INSTITUTO TECNOLÓGICO DE OAXACA			
+
+			 Departamento de Ingeniería en Sistemas Computacionales
+
+			 Materia:PROGRAMACION WEB
+   
+			 “Librería Enlace de repositorio de Github y/o GitHub Pages”
+
+			 Profesor: Martinez Nieto Adelina
+	
+		  Equipo: 
+			MORALES OSORIO RUBI ESMERALDA 
+			JIMENEZ CASTILLEJOS FABIAN DE JESUS
+
+		  Grupo:   VSI
+		  Oaxaca, Oaxaca, a 03 de julio de 2025.
+    
 ## Descripción
 **Calendarioutils** es una librería JavaScript para el manejo y generación de calendarios. Permite calcular años bisiestos, obtener el número de días de un mes, generar visualmente un mes en formato calendario y formatear fechas de manera sencilla.  
 Esta librería resuelve la necesidad de mostrar calendarios interactivos en aplicaciones web, facilitando la gestión de fechas y mejorando la experiencia del usuario al trabajar con fechas y calendarios.
