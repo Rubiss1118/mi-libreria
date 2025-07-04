@@ -1,6 +1,6 @@
 				TECNOLÓGICO NACIONAL DE MEXICO
 
-        INSTITUTO TECNOLÓGICO DE OAXACA			
+                                 INSTITUTO TECNOLÓGICO DE OAXACA			
 
 			 Departamento de Ingeniería en Sistemas Computacionales
 
@@ -15,7 +15,7 @@
 			JIMENEZ CASTILLEJOS FABIAN DE JESUS
 
 		  Grupo:   VSI
-		  Oaxaca, Oaxaca, a 03 de julio de 2025.
+		  Oaxaca de juarez  a 03 de julio de 2025.
     
 ## Descripción
 **Calendarioutils** es una librería JavaScript para el manejo y generación de calendarios. Permite calcular años bisiestos, obtener el número de días de un mes, generar visualmente un mes en formato calendario y formatear fechas de manera sencilla.  
