@@ -293,3 +293,8 @@ Aquí tienes un ejemplo de implementación en HTML y JavaScript usando la librer
   </div>
 </body>
 </html>
+
+## d. Capturas de pantalla
+
+## e. Vídeo
+https://drive.google.com/drive/folders/1p3wIxIgMfy9FxPcnA-1qC2AcapBhUAa0?usp=sharing
