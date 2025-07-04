@@ -292,11 +292,13 @@ Aquí tienes un ejemplo de implementación en HTML y JavaScript usando la librer
 </html>
 
 ## d. Capturas de pantalla
+![image](https://github.com/user-attachments/assets/a2c4f728-a70d-43eb-9094-200005a99122)
 ![Captura de pantalla 2025-07-04 140735](https://github.com/user-attachments/assets/c6980aa3-f6b3-4c9f-8552-533dbfe2a0c7)
 ![Captura de pantalla 2025-07-04 140915](https://github.com/user-attachments/assets/455547bc-c141-4cfe-9c6e-fdc208f207cc)
 ![Captura de pantalla 2025-07-04 140854](https://github.com/user-attachments/assets/e7b646da-34e8-4591-a7a4-70525434d1ae)
 ![Captura de pantalla 2025-07-04 140846](https://github.com/user-attachments/assets/9574989f-148f-4efa-99f6-1442ef5b3843)
 ![Captura de pantalla 2025-07-04 140945](https://github.com/user-attachments/assets/728cf685-4a54-40d1-8c43-a989d35c4cb1)
+
 
 ## e. Vídeo
 https://drive.google.com/drive/folders/1p3wIxIgMfy9FxPcnA-1qC2AcapBhUAa0?usp=sharing
